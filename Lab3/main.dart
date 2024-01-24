@@ -26,7 +26,7 @@ class Content extends StatelessWidget {
       children: [
         Counter('6488113'),
         Counter('Withsarut Wutthisathian'),
-        Counter('Measuring air pollution'),
+        Counter('Mr. Books'),
         Counter('6488005, 6488017, 6488071, 6488113'),
       ],
     );
